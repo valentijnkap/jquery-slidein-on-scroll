@@ -1,0 +1,35 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #77dd77;
+}
+
+.wrapper {
+  width: 92%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding-top: 80px;
+}
+
+.title {
+  font-family: 'Fredoka One', cursive;
+  font-size: 36px;
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.block {
+  background: #ffffff;
+  display: block;
+  width: 100%;
+  padding-top: 58%;
+  margin: 40px 0;
+  border-radius: 5px;
+  -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+}
