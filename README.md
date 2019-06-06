@@ -1,6 +1,6 @@
 # Simple jQuery Slide-in on scroll effect
 
-Easy to use jQuery script for sliding in elements on the page while scrolling. The required files are stored in the recourses folder.
+Easy to use jQuery script for sliding in elements on the page while scrolling. The required files are stored in the [recourses](recourses) folder. There is a [demo](https://github.com/valentijnkap/jquery-slidein-on-scroll) published to showcase the effect.
 
 ## Usage
 
@@ -18,6 +18,10 @@ Give the element(s) on the page that need to be slide-in the class `.js-slidein`
   content...
 </div>
 ```
+
+## Tested
+
+The script is tested with jQuery version `2.2.0` and higher. If you encounter problems or bugs open an isssue.
 
 ### License
 
