@@ -18,3 +18,9 @@ Give the element(s) on the page that need to be slide-in the class `.js-slidein`
   content...
 </div>
 ```
+
+### License
+
+[GPL][license] © [Valentijn Kap](https://github.com/valentijnkap)
+
+[license]: LICENSE
